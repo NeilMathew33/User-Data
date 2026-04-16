@@ -12,8 +12,9 @@ const UserDataNavbar = () => {
                     </button>
                     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <div class="navbar-nav">
-                            <a class="nav-link active" aria-current="page" href="/">AddUserData</a>
+                            <a class="nav-link active" aria-current="page" href="/Add">AddUserData</a>
                             <a class="nav-link" href="/ViewAll">ViewAllUserData</a>
+                            
                             
                         </div>
                     </div>
