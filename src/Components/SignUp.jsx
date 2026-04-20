@@ -12,9 +12,7 @@ const SignUp = () => {
   <div class="card-body ">
     
 <div className="row g-3">
-<h4>
-  User Sign Up
-</h4>
+<h4 className='text-center'>User Sign Up</h4>
 
 
         <div className="col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
